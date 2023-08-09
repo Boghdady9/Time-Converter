@@ -12,10 +12,10 @@ Double-click the TimeZoneConverter.jar file to launch the application.
 # Usage
 To use the Time Zone Converter, follow these steps:
 
-Launch the application by double-clicking the TimeZoneConverter.jar file.
-Select the source time zone from the drop-down list in the "Source Time Zone" panel.
-Select the destination time zone from the drop-down list in the "Destination Time Zone" panel.
-Enter the time in the source time zone in the "Source Time" panel.
-Click the "Convert" button to calculate the equivalent time in the destination time zone.
-The converted time will be displayed in the "Destination Time" panel.
+* Launch the application by double-clicking the TimeZoneConverter.jar file.
+* Select the source time zone from the drop-down list in the "Source Time Zone" panel.
+* Select the destination time zone from the drop-down list in the "Destination Time Zone" panel.
+* Enter the time in the source time zone in the "Source Time" panel.
+* Click the "Convert" button to calculate the equivalent time in the destination time zone.
+* The converted time will be displayed in the "Destination Time" panel.
 
